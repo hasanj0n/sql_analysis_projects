@@ -55,6 +55,33 @@ This project examines key trends in the automotive industry, including car sales
 
 ---
 
+## 👨‍🎓 Students performance Analysis  
+
+🔗 **Project File:** [Analyzing Employee Trends.sql](data_analysis_performance_students.sql)  
+
+### 📝 Project Overview  
+
+This project aims to understand the influence of the parents background, test preparation etc. on students performance.
+
+### 🔍 Key Analytical Tasks  
+
+* Average score in each subject.   
+* How many students took the test preparation course? 
+* Is there a relationship between the student doing a test preparation course and the score in the exams?  
+* Number of students by gender.  
+* Average score by gender. 
+* Average score per subject by gender.  
+* Student with the highest total score.
+* Student with the lowest total score.
+* What role did ethnicity and educational level from their parents play?
+* How do ethnicity and lunch behave?  
+
+
+**Data source**: _https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data_
+
+---
+
+
 ## ⚡ How to Use These SQL Projects  
 
 1️⃣ Install an SQL database engine such as **SQL Server, MySQL, or SQLite**.  
